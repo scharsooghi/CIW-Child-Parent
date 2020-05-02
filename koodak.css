@@ -1,0 +1,27 @@
+.leftNav         { font-family: Tahoma; font-size: 10pt; color:#5d748b; }
+.left_pechpech { color: #5D748B; font-family: Tahoma; font-size: 10pt; font-weight: bold }
+.left_pechpech a { text-decoration: none; color: #5d748b }
+.left_pechpech a:hover { color: #eb9a6f; text-decoration: none  }
+.pechpech    {  
+               list-style-image: url('images/left_bulet.jpg') }
+.leftNav a   { text-decoration: none; color: #5d748b }
+.leftNav a:hover { color: #eb9a6f; text-decoration: none }
+.footer      { font-family: Tahoma; color: #808080; font-size: 8pt }
+
+#tbl a{
+		display:block;
+		}
+
+	html {
+		scrollbar-face-color: #FFE3FF;
+		scrollbar-shadow-color: #FE81FF;
+		scrollbar-highlight-color: #FE81FF;
+		scrollbar-3dlight-color:#CE0075;
+		scrollbar-darkshadow-color: #CE0075;
+		scrollbar-track-color: #FFC0C0;
+		scrollbar-arrow-color: #CE0075;
+		
+	}
+
+	
+	body         { background-image: url('images/bg_3.gif') }

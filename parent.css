@@ -1,0 +1,48 @@
+.leftNav         { font-family: Tahoma; font-size: 10pt; color:#5d748b; text-align:justify; }
+.reg a:hover       { color: #800000; text-decoration: none }
+.reg a        { color: #CC0066; font-family: Tahoma; font-size: 10pt; font-weight: bold; text-decoration:none }
+.reg        { color: #CC0066; font-family: Tahoma; font-size: 10pt; text-decoration:none }
+.leftNav_parent {font-family: Tahoma; font-size: 10pt; color:#5d748b; text-align:justify; line-height:25px;}
+.left_pechpech { color: #5D748B; font-family: Tahoma; font-size: 10pt; font-weight: bold }
+.left_pechpech a { text-decoration: none; color: #5d748b }
+.left_pechpech a:hover { color: #eb9a6f; text-decoration: none  }
+.pechpech    {  
+               list-style-image: url('images/left_bulet.jpg') }
+.leftNav a   { text-decoration: none; color: #5d748b }
+.leftNav a:hover { color: #eb9a6f; text-decoration: none }
+.footer      { font-family: Tahoma; color: #808080; font-size: 8pt }
+.subTitle {font-family: Tahoma; font-size: 6pt; color:#0099CC;}
+
+#tbl td {
+	border-bottom: 1px solid #ebd2f0
+	}
+
+#tbl a {
+	font:9pt Tahoma;
+	color: #5d748b;
+	line-height:16px;
+	text-decoration: none;
+	display:block;
+	padding:8px 30px 8px 22px;
+	background: url("images/bulet_parent_pre.gif") 110px 50% no-repeat;
+	}
+	
+#tbl a:hover {
+	color:#eb9a6f;
+	background: url("images/bulet_parent_post.gif") 110px 50% no-repeat;
+	}
+
+#tbl2 a{
+		display:block;
+		}
+		
+	html {
+		scrollbar-face-color: #DEE3E7;
+		scrollbar-shadow-color: #DEE3E7;
+		scrollbar-highlight-color: #FFFFFF;
+		scrollbar-3dlight-color:#D1D7DC;
+		scrollbar-darkshadow-color: #98AAB1;
+		scrollbar-track-color: #EFEFEF;
+		scrollbar-arrow-color: #006699;
+		
+	}
